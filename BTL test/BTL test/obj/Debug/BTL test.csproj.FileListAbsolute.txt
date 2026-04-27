@@ -1,0 +1,10 @@
+C:\Users\buitr\source\repos\BTL test\BTL test\obj\Debug\BTL test.csproj.AssemblyReference.cache
+C:\Users\buitr\source\repos\BTL test\BTL test\obj\Debug\sever.Form1.resources
+C:\Users\buitr\source\repos\BTL test\BTL test\obj\Debug\BTL_test.Properties.Resources.resources
+C:\Users\buitr\source\repos\BTL test\BTL test\obj\Debug\BTL test.csproj.GenerateResource.cache
+C:\Users\buitr\source\repos\BTL test\BTL test\obj\Debug\BTL test.csproj.CoreCompileInputs.cache
+C:\Users\buitr\source\repos\BTL test\BTL test\bin\Debug\BTL test.exe.config
+C:\Users\buitr\source\repos\BTL test\BTL test\bin\Debug\BTL test.exe
+C:\Users\buitr\source\repos\BTL test\BTL test\bin\Debug\BTL test.pdb
+C:\Users\buitr\source\repos\BTL test\BTL test\obj\Debug\BTL test.exe
+C:\Users\buitr\source\repos\BTL test\BTL test\obj\Debug\BTL test.pdb
